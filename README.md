@@ -1,2 +1,1 @@
-# masjid
-# masjid
+# Sistem Informasi dan Manajemen Masjid Al-Ikhlas
