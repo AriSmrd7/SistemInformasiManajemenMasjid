@@ -1,7 +1,7 @@
 # Sistem Informasi dan Manajemen Masjid Al-Ikhlas
 ## Information
 Sistem Informasi dan Manajemen Masjid Al-Ikhlas merupakan website yang berfungsi untuk mengelola semua informasi dan kegiatan yang ada di masjid. Seperti mengelola keuangan, donasi, uang masuk dan keluar, jadwal kegiatan, jadwal sholat dan lainnya. 
-[Demo aplikasi](http://arismrd.my.id/masjid)
+[Demo aplikasi](https://masjid.arisumardi.my.id/)
 
 ## Screenshot 
 ![screenshot](ss.png)
